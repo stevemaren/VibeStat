@@ -1,0 +1,7 @@
+node_modules/
+dist/
+src-tauri/target/
+*.dmg
+*.msi
+*.exe
+.DS_Store
